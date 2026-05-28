@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "smsdarse",
+        "uuid": 29625129,
+        "checksum": "svq2y"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": false,
+        "mode": "production"
+    }
+}
